@@ -3,7 +3,7 @@ import numpy as np
 import random
 
 # 이미지 입력
-img = cv2.imread("C:/Users/USER/Downloads/2024-04-01.jpg")
+img = cv2.imread("이미지 경로 입력")
 
 if img is None:
     print("이미지를 불러올 수 없습니다.")
